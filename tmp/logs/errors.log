@@ -1,0 +1,66 @@
+[2022-06-16 15:26:th] Текст ошибки: Косяк братан | Файл: C:\xampp3\htdocs\public\index.php | Строка: 11
+==========
+[2022-06-16 15:29:32] Текст ошибки: Косяк братан | Файл: C:\xampp3\htdocs\public\index.php | Строка: 11
+==========
+[2022-06-16 15:29:45] Текст ошибки: Косяк братан | Файл: C:\xampp3\htdocs\public\index.php | Строка: 11
+==========
+[2022-06-16 15:29:54] Текст ошибки: Косяк братан | Файл: C:\xampp3\htdocs\public\index.php | Строка: 11
+==========
+[2022-06-16 15:29:55] Текст ошибки: Косяк братан | Файл: C:\xampp3\htdocs\public\index.php | Строка: 11
+==========
+[2022-06-17 08:37:32] Текст ошибки: Undefined variable $test | Файл:  | Строка: 10
+==========
+[2022-06-17 08:37:56] Текст ошибки: Undefined variable $test | Файл:  | Строка: 10
+==========
+[2022-06-17 08:39:31] Текст ошибки: Undefined variable $test | Файл:  | Строка: 10
+==========
+[2022-06-17 08:41:43] Текст ошибки: Undefined variable $test | Файл:  | Строка: 10
+==========
+[2022-06-17 08:42:20] Текст ошибки: Undefined variable $test | Файл:  | Строка: 10
+==========
+[2022-06-17 08:42:22] Текст ошибки: Undefined variable $test | Файл:  | Строка: 10
+==========
+[2022-06-17 08:42:30] Текст ошибки: Косяк братан | Файл: C:\xampp3\htdocs\public\index.php | Строка: 12
+==========
+[2022-06-17 09:46:11] Текст ошибки: Too few arguments to function Order::save(), 0 passed in C:\xampp3\htdocs\public\index.php on line 66 and exactly 1 expected | Файл: C:\xampp3\htdocs\public\index.php | Строка: 31
+==========
+[2022-06-17 09:46:13] Текст ошибки: Too few arguments to function Order::save(), 0 passed in C:\xampp3\htdocs\public\index.php on line 66 and exactly 1 expected | Файл: C:\xampp3\htdocs\public\index.php | Строка: 31
+==========
+[2022-06-17 09:46:30] Текст ошибки: Too few arguments to function Order::save(), 0 passed in C:\xampp3\htdocs\public\index.php on line 66 and exactly 1 expected | Файл: C:\xampp3\htdocs\public\index.php | Строка: 31
+==========
+[2022-06-22 09:02:47] Текст ошибки: preg_match(): Compilation failed: unmatched closing parenthesis at offset 30 | Файл:  | Строка: 40
+==========
+[2022-06-22 09:04:24] Текст ошибки: preg_match(): Compilation failed: unmatched closing parenthesis at offset 30 | Файл:  | Строка: 40
+==========
+[2022-06-22 09:53:17] Текст ошибки: Class "mysql_xdevapi\Exception" not found | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 41
+==========
+[2022-06-22 09:53:36] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 41
+==========
+[2022-06-22 09:55:24] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 46
+==========
+[2022-06-22 09:55:28] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 46
+==========
+[2022-06-22 09:55:55] Текст ошибки: Контроллер app\controllers\admin\ClearController не найден | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 46
+==========
+[2022-06-22 09:57:18] Текст ошибки: Контроллер app\controllers\admin\ClearController не найден | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 46
+==========
+[2022-06-22 09:57:24] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 46
+==========
+[2022-06-22 09:58:39] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 46
+==========
+[2022-06-22 09:59:25] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 43
+==========
+[2022-06-22 10:04:47] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 42
+==========
+[2022-06-22 10:05:12] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 42
+==========
+[2022-06-22 10:05:40] Текст ошибки: Метод app\controllers\PageController::viewAction не найден | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 39
+==========
+[2022-06-22 10:07:46] Текст ошибки: Метод app\controllers\admin\MainController::indexAction не найден | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 39
+==========
+[2022-06-22 10:12:47] Текст ошибки: Страница не найдена | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 45
+==========
+[2022-06-22 10:59:46] Текст ошибки: Call to undefined method app\controllers\PageController::getModel() | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 52
+==========
+[2022-06-22 11:01:20] Текст ошибки: Call to undefined method app\controllers\PageController::getModel() | Файл: C:\xampp3\htdocs\vendor\wfm\Router.php | Строка: 52
+==========
